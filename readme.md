@@ -15,6 +15,4 @@ NegaMax 알고리즘을 통해 Search Space를 탐색하여 수를 결정하고,
 ### 개발환경
 - 프로그램 언어 : C++
 - 운영체제 : macOS
-- 프로세서 : 2.6GHz Intel Core i7
-- RAM : 16GB 2400MHz DDR4
-- 시스템 : 64bit System
+- 시스템 : 64 Bit System
