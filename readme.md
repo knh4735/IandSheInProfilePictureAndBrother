@@ -3,4 +3,4 @@
 
 Connect 4 (Four in a row) 게임의 인공지능
 
-NegaMax 알고리즘에 Rule을 추가하였다.
+NegaMax 알고리즘을 통해 Search Space를 탐색하여 수를 결정하고, Rule Base를 이용해 강화하였다.
